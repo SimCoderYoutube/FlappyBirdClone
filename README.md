@@ -8,8 +8,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SimCoderYoutube/FlappyBirdClone">
-    <img src="images/logo512.png" alt="Logo" width="80" height="80">
+  <a href="https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog">
+    <img src="https://pbs.twimg.com/profile_images/1300479753133191168/R-2_lhEt.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">FlappyBirdClone</h3>
